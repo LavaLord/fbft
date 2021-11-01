@@ -54,9 +54,7 @@
 				<hr>
 				<ul class="social-list list-inline py-3 mx-auto">
 					<li class="list-inline-item"><a href="https://www.linkedin.com/in/jake-howell-dev/"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-					<li class="list-inline-item"><a href="https://github.com/LavaLord"><i class="fab fa-github-alt fa-fw"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
+					<li class="list-inline-item"><a href="https://github.com/LavaLord"><i class="fab fa-github-square fa-fw"></i></a></li>
 				</ul>
 
 			</div>
